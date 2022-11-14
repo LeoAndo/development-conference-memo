@@ -12,3 +12,5 @@ https://github.com/LeoAndo/development-conference-memo/issues<br>
 ## [droidkaigi2022](https://github.com/LeoAndo/development-conference-memo/issues?q=is%3Aissue+is%3Aopen+label%3Adroidkaigi2022)
 
 ## [Google I/O 21 Android 12](https://github.com/LeoAndo/development-conference-memo/issues?q=is%3Aissue+is%3Aopen+label%3A%22Google+I%2FO+21+Android+12%22)
+
+## [Android Dev Summit '22](https://github.com/LeoAndo/development-conference-memo/labels/android-dev-summit-2022)
