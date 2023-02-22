@@ -16,3 +16,5 @@ https://github.com/LeoAndo/development-conference-memo/issues<br>
 ## [Android Dev Summit '22](https://github.com/LeoAndo/development-conference-memo/labels/android-dev-summit-2022)
 
 ## [Flutter Forward 2023](https://github.com/LeoAndo/development-conference-memo/labels/Flutter%20Forward%202023)
+## [.NET Conf 2022](https://github.com/LeoAndo/development-conference-memo/labels/.NET%20Conf%202022)
+## [Learn Live - .NET MAUI](https://github.com/LeoAndo/development-conference-memo/labels/Learn%20Live%20-%20.NET%20MAUI)
