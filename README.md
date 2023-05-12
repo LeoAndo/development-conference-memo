@@ -7,6 +7,8 @@ https://github.com/LeoAndo/development-conference-memo/issues<br>
 
 ## [Google I/O 22](https://github.com/LeoAndo/development-conference-memo/issues?q=is%3Aissue+is%3Aopen+label%3A%22Google+I%2FO+22%22)
 
+## [Google I/O 23](https://github.com/LeoAndo/development-conference-memo/labels/Google%20I%2FO%2023)
+
 ## [droidkaigi2021 ](https://github.com/LeoAndo/development-conference-memo/issues?q=is%3Aissue+is%3Aopen+label%3Adroidkaigi2021)
 
 ## [droidkaigi2022](https://github.com/LeoAndo/development-conference-memo/issues?q=is%3Aissue+is%3Aopen+label%3Adroidkaigi2022)
