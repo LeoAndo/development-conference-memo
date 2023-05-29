@@ -20,3 +20,4 @@ https://github.com/LeoAndo/development-conference-memo/issues<br>
 ## [Flutter Forward 2023](https://github.com/LeoAndo/development-conference-memo/labels/Flutter%20Forward%202023)
 ## [.NET Conf 2022](https://github.com/LeoAndo/development-conference-memo/labels/.NET%20Conf%202022)
 ## [Learn Live - .NET MAUI](https://github.com/LeoAndo/development-conference-memo/issues?q=is%3Aopen+is%3Aissue+label%3A%22Learn+Live+.NET+MAUI%22)
+## [Microsoft Build 2023](https://github.com/LeoAndo/development-conference-memo/labels/Microsoft%20Build%202023)
