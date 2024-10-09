@@ -6,6 +6,7 @@ https://github.com/LeoAndo/development-conference-memo/issues<br>
 ## [WWDC 2022](https://github.com/LeoAndo/development-conference-memo/labels/WWDC%202022)
 ## [Google I/O 22](https://github.com/LeoAndo/development-conference-memo/issues?q=is%3Aissue+is%3Aopen+label%3A%22Google+I%2FO+22%22)
 ## [Google I/O 23](https://github.com/LeoAndo/development-conference-memo/labels/Google%20I%2FO%2023)
+## [Google I/O 24](https://io.google/2024/explore/intl/ja/)
 ## [droidkaigi2021 ](https://github.com/LeoAndo/development-conference-memo/issues?q=is%3Aissue+is%3Aopen+label%3Adroidkaigi2021)
 ## [droidkaigi2022](https://github.com/LeoAndo/development-conference-memo/issues?q=is%3Aissue+is%3Aopen+label%3Adroidkaigi2022)
 ## [Google I/O 21 Android 12](https://github.com/LeoAndo/development-conference-memo/issues?q=is%3Aissue+is%3Aopen+label%3A%22Google+I%2FO+21+Android+12%22)
