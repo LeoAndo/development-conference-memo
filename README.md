@@ -7,6 +7,7 @@ https://github.com/LeoAndo/development-conference-memo/issues<br>
 ## [Google I/O 22](https://github.com/LeoAndo/development-conference-memo/issues?q=is%3Aissue+is%3Aopen+label%3A%22Google+I%2FO+22%22)
 ## [Google I/O 23](https://github.com/LeoAndo/development-conference-memo/labels/Google%20I%2FO%2023)
 ## [Google I/O 24](https://github.com/LeoAndo/development-conference-memo/issues?q=is%3Aissue+is%3Aopen+label%3A%22Google+I%2FO+24%22)
+## [Google I/O 25](https://github.com/LeoAndo/development-conference-memo/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22Google%20I%2FO%2025%22)
 ## [droidkaigi2021 ](https://github.com/LeoAndo/development-conference-memo/issues?q=is%3Aissue+is%3Aopen+label%3Adroidkaigi2021)
 ## [droidkaigi2022](https://github.com/LeoAndo/development-conference-memo/issues?q=is%3Aissue+is%3Aopen+label%3Adroidkaigi2022)
 ## [Google I/O 21 Android 12](https://github.com/LeoAndo/development-conference-memo/issues?q=is%3Aissue+is%3Aopen+label%3A%22Google+I%2FO+21+Android+12%22)
