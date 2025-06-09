@@ -19,3 +19,4 @@ https://github.com/LeoAndo/development-conference-memo/issues<br>
 ## [Microsoft Build 2023](https://github.com/LeoAndo/development-conference-memo/labels/Microsoft%20Build%202023)
 ## [Microsoft Ignite 2024](https://github.com/LeoAndo/development-conference-memo/issues?q=state%3Aopen%20label%3A%22Microsoft%20Ignite%202024%22)
 ## [AWSome Day Online Conference](https://github.com/LeoAndo/development-conference-memo/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22AWSome%20Day%20Online%20Conference%22)
+## [AWS Summit Japan 2025](https://github.com/LeoAndo/development-conference-memo/issues?q=state%3Aopen%20label%3A%22AWS%20Summit%20Japan2025%22)
