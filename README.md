@@ -22,3 +22,4 @@ https://github.com/LeoAndo/development-conference-memo/issues<br>
 ## [AWS Summit Japan 2025](https://github.com/LeoAndo/development-conference-memo/issues?q=state%3Aopen%20label%3A%22AWS%20Summit%20Japan2025%22)
 ## [Google I/O Extended Tokyo 2025](https://github.com/LeoAndo/development-conference-memo/issues?q=state%3Aopen%20label%3A%22Google%20I%2FO%20Extended%20Tokyo%202025%22)
 ## [Droidcon London 2025](https://github.com/LeoAndo/development-conference-memo/issues/474)
+## [Fluttercon EU 2025](https://github.com/LeoAndo/development-conference-memo/issues/475)
